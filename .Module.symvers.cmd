@@ -1,0 +1,1 @@
+savedcmd_/home/ankitjksel/Drivers/hello/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/ankitjksel/Drivers/hello/Module.symvers -T /home/ankitjksel/Drivers/hello/modules.order -i Module.symvers -e 
