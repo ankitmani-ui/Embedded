@@ -1,1 +1,0 @@
-savedcmd_/home/ankitjksel/Drivers/hello/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ankitjksel/Drivers/hello/hello.ko /home/ankitjksel/Drivers/hello/hello.o /home/ankitjksel/Drivers/hello/hello.mod.o;  make -f ./arch/x86/Makefile.postlink /home/ankitjksel/Drivers/hello/hello.ko

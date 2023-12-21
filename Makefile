@@ -1,4 +1,4 @@
-obj-m += hello.o
+obj-m += Linux_driver.o
 
 KDIR = /lib/modules/$(shell uname -r)/build
 
